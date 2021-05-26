@@ -1,3 +1,3 @@
 This is B
 Good Bye
-B love A
+B love A!
