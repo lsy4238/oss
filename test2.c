@@ -1,3 +1,3 @@
 new
 test2~!
-edit dif line
+edit dif line edit
